@@ -81,11 +81,25 @@ code {
 }
 
 .brand a {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
   color: inherit;
 }
 
 .brand a:hover {
   text-decoration: none;
+}
+
+.brand-mark {
+  width: 34px;
+  height: 34px;
+  flex: 0 0 34px;
+  display: block;
+}
+
+.brand-label {
+  display: block;
 }
 
 .nav-links {
