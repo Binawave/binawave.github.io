@@ -3,6 +3,28 @@
   "coordinateSystem": "Rhino X/Y/Z -> Three X/Z/-Y",
   "modelWidth": 343,
   "modelDepth": 204.5,
+  "textureRegistration": {
+    "overlay": { "sourcePixels": [0, 0, 13031, 7565], "cadBounds": [-171.5, 0, 171.5, 204.5104] },
+    "buttonsLeft": {
+      "sourcePixels": [0, 0, 5544, 1887],
+      "cadBounds": [-161.149, 16.251, -16.151, 69.049],
+      "regions": {
+        "top": { "sourcePixels": [0, 0, 5544, 323], "cadBounds": [-161.149, 58.951, -16.151, 69.049] },
+        "contStop": { "sourcePixels": [0, 844, 596, 226], "cadBounds": [-161.149, 38.751, -145.051, 48.849] },
+        "start": { "sourcePixels": [0, 1799, 596, 88], "cadBounds": [-161.149, 16.251, -145.051, 26.349] }
+      }
+    },
+    "buttonsRight": {
+      "sourcePixels": [0, 0, 3459, 1748],
+      "cadBounds": [68.551, 16.251, 158.149, 69.049],
+      "regions": {
+        "top": { "sourcePixels": [0, 0, 3459, 68], "cadBounds": [68.551, 58.951, 158.149, 69.049] },
+        "barEnter": { "sourcePixels": [2360, 777, 1099, 85], "cadBounds": [124.551, 38.751, 161.149, 48.849] },
+        "tap": { "sourcePixels": [2360, 1663, 1099, 85], "cadBounds": [124.551, 16.251, 161.149, 26.349] }
+      }
+    },
+    "lcd": { "sourcePixels": [0, 0, 2087, 748], "cadBounds": [1.5, 58.7, 49.5, 75.9] }
+  },
   "knobs": [
     { "key": "tune", "x": -125, "y": 96.2, "z": 54.5 },
     { "key": "portamento", "x": -92.5002, "y": 96.1999, "z": 54.5 },
