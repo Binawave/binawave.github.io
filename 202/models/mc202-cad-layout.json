@@ -1,0 +1,148 @@
+{
+  "source": "Roland MC-202.3dm",
+  "coordinateSystem": "Rhino X/Y/Z -> Three X/Z/-Y",
+  "modelWidth": 343,
+  "modelDepth": 204.0,
+  "textureRegistration": {
+    "overlay": {
+      "sourcePixels": [0, 0, 13031, 7565],
+      "cadBounds": [-165.5, 0, 165.5, 204.0],
+      "calibration": {
+        "axisMap": "Top-panel CAD X -> pixel X; top-panel CAD Y -> pixel Y reversed (pixelY=(204-CAD_Y)*7565/204); keyboard atlas island is cleared and replaced by source STL control faces",
+        "pixelsPerCad": [39.3685800604, 37.0833333333],
+        "pixelOriginForCadMin": [0, 7565],
+        "anchors": [
+          { "name": "TUNE center", "cad": [-125, 96.2], "pixels": [1594.427, 3997.583] },
+          { "name": "PORTAMENTO center", "cad": [-92.5002, 96.1999], "pixels": [2873.898, 3997.587] },
+          { "name": "TEMPO center", "cad": [-54.6, 96.2], "pixels": [4365.976, 3997.583] },
+          { "name": "ACCENT center", "cad": [97.3001, 96.2012], "pixels": [10346.067, 3997.538] },
+          { "name": "VOLUME center", "cad": [138.8, 96.2], "pixels": [11979.859, 3997.583] }
+        ]
+      }
+    },
+    "buttonsLeft": {
+      "sourcePixels": [0, 0, 5544, 1887],
+      "cadBounds": [-161.149, 16.251, -16.151, 69.049],
+      "regions": {
+        "top": { "sourcePixels": [0, 0, 5544, 323], "cadBounds": [-160.75, 59.41, -16.59, 68.59] },
+        "contStop": { "sourcePixels": [0, 844, 596, 226], "cadBounds": [-160.75, 39.21, -145.45, 48.39] },
+        "start": { "sourcePixels": [0, 1799, 596, 88], "cadBounds": [-160.75, 16.71, -145.45, 25.89] }
+      }
+    },
+    "buttonsRight": {
+      "sourcePixels": [0, 0, 3459, 1748],
+      "cadBounds": [68.551, 16.251, 158.149, 69.049],
+      "regions": {
+        "top": { "sourcePixels": [0, 0, 3459, 68], "cadBounds": [69.01, 59.41, 157.69, 68.59] },
+        "barEnter": { "sourcePixels": [2360, 777, 1099, 85], "cadBounds": [124.95, 39.21, 160.75, 48.39] },
+        "tap": { "sourcePixels": [2360, 1663, 1099, 85], "cadBounds": [124.95, 16.71, 160.75, 25.89] }
+      }
+    },
+    "lcd": { "sourcePixels": [0, 0, 2087, 748], "cadBounds": [-6.306, 52.9, 57.306, 75.7] }
+  },
+  "surfaceZ": {
+    "panelTop": 43.27,
+    "keyTop": 43.7,
+    "buttonTop": 43.7,
+    "lcdTop": 45.488
+  },
+  "keys": {
+    "white": [
+      { "note": 41, "minX": -133.37, "maxX": -126.23, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 },
+      { "note": 43, "minX": -120.07, "maxX": -112.93, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 },
+      { "note": 45, "minX": -106.77, "maxX": -99.63, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 },
+      { "note": 47, "minX": -93.47, "maxX": -86.33, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 },
+      { "note": 48, "minX": -80.17, "maxX": -73.03, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 },
+      { "note": 50, "minX": -66.87, "maxX": -59.73, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 },
+      { "note": 52, "minX": -53.57, "maxX": -46.43, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 },
+      { "note": 53, "minX": -40.27, "maxX": -33.13, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 },
+      { "note": 55, "minX": -26.97, "maxX": -19.83, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 },
+      { "note": 57, "minX": -13.67, "maxX": -6.53, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 },
+      { "note": 59, "minX": -0.37, "maxX": 6.77, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 },
+      { "note": 60, "minX": 12.93, "maxX": 20.07, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 },
+      { "note": 62, "minX": 26.23, "maxX": 33.37, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 },
+      { "note": 64, "minX": 39.53, "maxX": 46.67, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 },
+      { "note": 65, "minX": 52.83, "maxX": 59.97, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 },
+      { "note": 67, "minX": 66.13, "maxX": 73.27, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 },
+      { "note": 69, "minX": 79.43, "maxX": 86.57, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 },
+      { "note": 71, "minX": 92.73, "maxX": 99.87, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 },
+      { "note": 72, "minX": 106.03, "maxX": 113.17, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 }
+    ],
+    "black": [
+      { "note": 42, "minX": -127.02, "maxX": -119.88, "minY": 32.81, "maxY": 41.99, "topZ": 43.7 },
+      { "note": 44, "minX": -113.32, "maxX": -106.18, "minY": 32.81, "maxY": 41.99, "topZ": 43.7 },
+      { "note": 46, "minX": -99.52, "maxX": -92.38, "minY": 32.81, "maxY": 41.99, "topZ": 43.7 },
+      { "note": 49, "minX": -74.02, "maxX": -66.88, "minY": 32.81, "maxY": 41.99, "topZ": 43.7 },
+      { "note": 51, "minX": -59.62, "maxX": -52.48, "minY": 32.81, "maxY": 41.99, "topZ": 43.7 },
+      { "note": 54, "minX": -33.92, "maxX": -26.78, "minY": 32.81, "maxY": 41.99, "topZ": 43.7 },
+      { "note": 56, "minX": -20.22, "maxX": -13.08, "minY": 32.81, "maxY": 41.99, "topZ": 43.7 },
+      { "note": 58, "minX": -6.42, "maxX": 0.72, "minY": 32.81, "maxY": 41.99, "topZ": 43.7 },
+      { "note": 61, "minX": 19.08, "maxX": 26.22, "minY": 32.81, "maxY": 41.99, "topZ": 43.7 },
+      { "note": 63, "minX": 33.48, "maxX": 40.62, "minY": 32.81, "maxY": 41.99, "topZ": 43.7 },
+      { "note": 66, "minX": 59.18, "maxX": 66.32, "minY": 32.81, "maxY": 41.99, "topZ": 43.7 },
+      { "note": 68, "minX": 72.88, "maxX": 80.02, "minY": 32.81, "maxY": 41.99, "topZ": 43.7 },
+      { "note": 70, "minX": 86.68, "maxX": 93.82, "minY": 32.81, "maxY": 41.99, "topZ": 43.7 }
+    ]
+  },
+  "buttons": [
+    { "key": "shift", "action": "shift", "minX": -160.75, "maxX": -145.45, "minY": 59.41, "maxY": 68.59, "topZ": 43.7 },
+    { "key": "contStop", "action": "run", "minX": -160.75, "maxX": -145.45, "minY": 39.21, "maxY": 48.39, "topZ": 43.7 },
+    { "key": "start", "action": "run", "minX": -160.75, "maxX": -145.45, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 },
+    { "key": "down", "action": "transposeDown", "minX": -131.44, "maxX": -122.26, "minY": 59.41, "maxY": 68.59, "topZ": 43.7 },
+    { "key": "norm", "action": "normal", "minX": -112.94, "maxX": -103.76, "minY": 59.41, "maxY": 68.59, "topZ": 43.7 },
+    { "key": "up", "action": "transposeUp", "minX": -94.44, "maxX": -85.26, "minY": 59.41, "maxY": 68.59, "topZ": 43.7 },
+    { "key": "channel", "action": "channelNext", "minX": -70.96, "maxX": -59.74, "minY": 59.41, "maxY": 68.59, "topZ": 43.7 },
+    { "key": "play", "action": "mode", "minX": -46.51, "maxX": -35.29, "minY": 59.41, "maxY": 68.59, "topZ": 43.7 },
+    { "key": "edit", "action": "mode", "minX": -27.81, "maxX": -16.59, "minY": 59.41, "maxY": 68.59, "topZ": 43.7 },
+    { "key": "tempo", "action": "tempoTap", "minX": 69.01, "maxX": 78.19, "minY": 59.41, "maxY": 68.59, "topZ": 43.7 },
+    { "key": "backStep", "action": "prevStep", "minX": 93.01, "maxX": 102.19, "minY": 59.41, "maxY": 68.59, "topZ": 43.7 },
+    { "key": "fwdStep", "action": "nextStep", "minX": 111.51, "maxX": 120.69, "minY": 59.41, "maxY": 68.59, "topZ": 43.7 },
+    { "key": "backMeas", "action": "prevMeasure", "minX": 130.01, "maxX": 139.19, "minY": 59.41, "maxY": 68.59, "topZ": 43.7 },
+    { "key": "fwdMeas", "action": "nextMeasure", "minX": 148.51, "maxX": 157.69, "minY": 59.41, "maxY": 68.59, "topZ": 43.7 },
+    { "key": "bar", "action": "bar", "minX": 124.95, "maxX": 140.25, "minY": 39.21, "maxY": 48.39, "topZ": 43.7 },
+    { "key": "enter", "action": "enter", "minX": 145.45, "maxX": 160.75, "minY": 39.21, "maxY": 48.39, "topZ": 43.7 },
+    { "key": "tapPorta", "action": "portamentoToggle", "minX": 124.95, "maxX": 140.25, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 },
+    { "key": "tapAcc", "action": "accentToggle", "minX": 145.45, "maxX": 160.75, "minY": 16.71, "maxY": 25.89, "topZ": 43.7 }
+  ],
+  "controlGeometry": {
+    "source": "Roland MC-202.stl",
+    "asset": "mc202-source-controls.glb",
+    "assetSha256": "2dd96d3c53e3c869f402c50f995d92e6ccce3f140d06e52823246b3376d986ed",
+    "keys": 32,
+    "buttons": 18,
+    "topZ": 43.7,
+    "overlayKeyboardIsland": "cleared-and-replaced-by-source-control-faces"
+  },
+  "knobVisuals": [
+    { "key": "tune", "instanceRotationDeg": 0, "markerLocal": [-2.826, 3.080], "markerDirection": "source-3dm" },
+    { "key": "portamento", "instanceRotationDeg": 89.907, "markerLocal": [-2.826, 3.080], "markerDirection": "source-3dm" },
+    { "key": "tempo", "instanceRotationDeg": 0, "markerLocal": [4.162, 4.545], "markerDirection": "source-3dm" },
+    { "key": "accent", "instanceRotationDeg": 85.463, "markerLocal": [4.162, 4.545], "markerDirection": "source-3dm" },
+    { "key": "volume", "instanceRotationDeg": 12.135, "markerLocal": [4.162, 4.545], "markerDirection": "source-3dm" }
+  ],
+  "knobs": [
+    { "key": "tune", "x": -125, "y": 96.2, "z": 54.5 },
+    { "key": "portamento", "x": -92.5002, "y": 96.1999, "z": 54.5 },
+    { "key": "tempo", "x": -54.6, "y": 96.2, "z": 54.5 },
+    { "key": "accent", "x": 97.3001, "y": 96.2012, "z": 55 },
+    { "key": "volume", "x": 138.8, "y": 96.2, "z": 54.5 }
+  ],
+  "sliders": [
+    { "key": "lfoRate", "x": -157.05, "y": 167.9, "z": 13.9768 },
+    { "key": "lfoDelay", "x": -142.85, "y": 160.5, "z": 13.9768 },
+    { "key": "vcoMod", "x": -121.65, "y": 158.6, "z": 13.9768 },
+    { "key": "pulseWidth", "x": -92.75, "y": 164.6, "z": 13.9768 },
+    { "key": "mixerPulse", "x": -55.65, "y": 167.9, "z": 13.9768 },
+    { "key": "mixerSaw", "x": -41.45, "y": 164, "z": 13.9768 },
+    { "key": "mixerSub", "x": -27.25, "y": 168.9, "z": 13.9768 },
+    { "key": "cutoff", "x": 10.35, "y": 172.7, "z": 13.9768 },
+    { "key": "resonance", "x": 24.55, "y": 159.5, "z": 13.9768 },
+    { "key": "vcfEnv", "x": 38.75, "y": 160.6, "z": 13.9768 },
+    { "key": "vcfLfo", "x": 52.95, "y": 163.6, "z": 13.9768 },
+    { "key": "keyFollow", "x": 67.15, "y": 163.5, "z": 13.9768 },
+    { "key": "attack", "x": 106.65, "y": 159.6, "z": 13.9768 },
+    { "key": "decay", "x": 120.85, "y": 169.6, "z": 13.9768 },
+    { "key": "sustain", "x": 135.05, "y": 163.6, "z": 13.9768 },
+    { "key": "release", "x": 149.25, "y": 162.5, "z": 13.9768 }
+  ]
+}
