@@ -114,11 +114,11 @@
     "overlayKeyboardIsland": "cleared-and-replaced-by-source-control-faces"
   },
   "knobVisuals": [
-    { "key": "tune", "instanceRotationDeg": 0, "markerLocal": [-2.826, 3.080], "markerDirection": "source-3dm" },
-    { "key": "portamento", "instanceRotationDeg": 89.907, "markerLocal": [-2.826, 3.080], "markerDirection": "source-3dm" },
-    { "key": "tempo", "instanceRotationDeg": 0, "markerLocal": [4.162, 4.545], "markerDirection": "source-3dm" },
-    { "key": "accent", "instanceRotationDeg": 85.463, "markerLocal": [4.162, 4.545], "markerDirection": "source-3dm" },
-    { "key": "volume", "instanceRotationDeg": 12.135, "markerLocal": [4.162, 4.545], "markerDirection": "source-3dm" }
+    { "key": "tune", "instanceRotationDeg": 0, "markerLocal": [-2.826, 3.080], "markerDirection": "source-3dm", "rotationRangeDeg": [92.462608, 182.462608] },
+    { "key": "portamento", "instanceRotationDeg": 89.907, "markerLocal": [-2.826, 3.080], "markerDirection": "source-3dm", "rotationRangeDeg": [2.555608, 92.555608] },
+    { "key": "tempo", "instanceRotationDeg": 0, "markerLocal": [4.162, 4.545], "markerDirection": "source-3dm", "rotationRangeDeg": [177.481320, 267.481320] },
+    { "key": "accent", "instanceRotationDeg": 85.463, "markerLocal": [4.162, 4.545], "markerDirection": "source-3dm", "rotationRangeDeg": [92.018320, 182.018320] },
+    { "key": "volume", "instanceRotationDeg": 12.135, "markerLocal": [4.162, 4.545], "markerDirection": "source-3dm", "rotationRangeDeg": [165.346320, 255.346320] }
   ],
   "knobs": [
     { "key": "tune", "x": -125, "y": 96.2, "z": 54.5 },
