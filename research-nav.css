@@ -5,6 +5,7 @@
 .header .research-menu[open]>summary::after{transform:rotate(225deg);margin-top:3px}
 .header .research-menu-panel{position:absolute;z-index:100;top:calc(100% + 8px);left:-20px;width:260px;padding:8px;background:#10232e;border:1px solid #34515e;border-radius:14px;box-shadow:0 16px 40px #0006}
 .header .research-menu-panel a{display:block;padding:14px 12px;border-radius:8px;font-size:12px;line-height:1.6;text-decoration:none;color:#eaf3f5}
+.header .research-menu-panel::before{content:"";position:absolute;left:0;right:0;top:-10px;height:10px}
 .header .research-menu-panel a:hover,.header .research-menu-panel a:focus-visible{background:#213e49;color:#a4e2d2}
 .header nav{align-items:center}
 .header .research-menu>summary:focus-visible{outline:2px solid #a4e2d2;outline-offset:4px;border-radius:4px}
