@@ -1,0 +1,6 @@
+.guide-cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px}
+.guide-card{display:flex;flex-direction:column;padding:32px 28px;border:1px solid #29414a;border-radius:20px;background:linear-gradient(145deg,#112a34,#0e212b)}
+.guide-card h3{font-size:22px;line-height:1.6;margin:14px 0}
+.guide-card>p:not(.eyebrow){color:#b0c1c5;font-size:14px;line-height:1.9;margin:0 0 28px}
+.guide-card>.text-link{margin-top:auto;align-self:flex-start}
+@media(max-width:1000px){.guide-cards{grid-template-columns:1fr}.guide-card{padding:28px}.guide-card h3{font-size:23px}}

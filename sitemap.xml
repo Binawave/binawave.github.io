@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://binawave.app/</loc><lastmod>2026-09-08</lastmod></url>
-<url><loc>https://binawave.app/en/</loc><lastmod>2026-09-08</lastmod></url>
+<url><loc>https://binawave.app/</loc><lastmod>2026-10-05</lastmod></url>
+<url><loc>https://binawave.app/en/</loc><lastmod>2026-10-05</lastmod></url>
 <url><loc>https://binawave.app/privacy/</loc></url>
 <url><loc>https://binawave.app/terms/</loc></url>
 <url><loc>https://binawave.app/support/</loc></url>
@@ -11,4 +11,10 @@
 <url><loc>https://binawave.app/research/how-it-works/</loc><lastmod>2026-09-07</lastmod></url>
 <url><loc>https://binawave.app/research/meta-analysis/</loc><lastmod>2026-09-07</lastmod></url>
 <url><loc>https://binawave.app/research/vigilance/</loc><lastmod>2026-09-07</lastmod></url>
+<url><loc>https://binawave.app/guides/solfeggio-frequencies/</loc><lastmod>2026-10-05</lastmod></url>
+<url><loc>https://binawave.app/en/guides/solfeggio-frequencies/</loc><lastmod>2026-10-05</lastmod></url>
+<url><loc>https://binawave.app/guides/schumann-resonance/</loc><lastmod>2026-10-05</lastmod></url>
+<url><loc>https://binawave.app/en/guides/schumann-resonance/</loc><lastmod>2026-10-05</lastmod></url>
+<url><loc>https://binawave.app/guides/mindfulness-meditation/</loc><lastmod>2026-10-05</lastmod></url>
+<url><loc>https://binawave.app/en/guides/mindfulness-meditation/</loc><lastmod>2026-10-05</lastmod></url>
 </urlset>
